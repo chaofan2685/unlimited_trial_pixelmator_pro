@@ -1,37 +1,24 @@
-# unlimited_trial_pixelmator_pro
+# Mac无限（almost）试用Pixelmator Pro
 
-#### 介绍
-Mac无限试用Pixelmator Pro
+### 介绍
+Pixelmator Pro 是一款专为 Mac 设计的非常强大、美观且易于使用的图像编辑器。本教程并非破解教程，仅仅是通过特殊手段以达到无限试用Pixelmator Pro的目的。
 
-#### 软件架构
-软件架构说明
+### 思路
 
+App Store版本的`Pixelmator Pro`是付费下载，因此[官网](https://www.pixelmator.com/pro/free-trial/)提供了试用版的`Pixelmator Pro Trial.app`供大家下载。下载下来后，拖入`应用程序`目录进行安装，安装完切记**不要打开！不要打开！不要打开！！！**然后调整系统时间，往后调整个几十年，越大越好，时间调整完再打开`Pixelmator Pro Trial.app`，会显示有15天试用期，此时完全关掉`Pixelmator Pro Trial.app`，再把时间调整回来，最后打开程序，就会显示较长天数的试用期。如下图：
 
-#### 安装教程
+![最终效果图](./finalEffect.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 详细步骤
 
-#### 使用说明
+1. 下载并安装，安装完不要打开（基础操作，忽略）
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+2. 调整系统时间，打开`系统偏好设置`>`日期与时间`按下图进行操作
 
-#### 参与贡献
+   <img src="./adjustTime.png" alt="调整时间" style="zoom: 50%;" />
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+3. 打开`Pixelmator Pro Trial.app`，点击试用，然后完全关闭改程序
 
+4. 再把时间恢复，直接勾选`自动设置日期与时间`就行了
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+5. 再次打开`Pixelmator Pro Trial.app`，大功告成！
