@@ -25,7 +25,7 @@ App Store版本的`Pixelmator Pro`是付费下载，因此[官网](https://www.p
 
 ### 补充
 
-后来经过我一点点的尝试，终于找到了记录试用期的文件，删掉这个文件，程序再次启动的时候就会重置15天试用期。因此我们可以按照[unlimited_trial_navicat_premium](https://gitee.com/chaofan2685_admin/unlimited_trial_navicat_premium)里面的方法，使用定时任务加脚本的方式自动的重置`Pixelmator Pro Trial.app`的试用期，脚本如下：
+后来经过我一点点的尝试，终于找到了记录试用期的文件，删掉这个文件，程序再次启动的时候就会重置15天试用期。因此我们可以按照[unlimited_trial_navicat_premium](https://github.com/chaofan2685/unlimited_trial_navicat_premium)里面的方法，使用定时任务加脚本的方式自动的重置`Pixelmator Pro Trial.app`的试用期，脚本如下：
 
 ```shell
 #!/bin/bash
